@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Ericsii's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ericsii&show_icons=true)
+
 <!--
 **Ericsii/Ericsii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Yunlong Feng(冯云龙), an undergraduate student at SCU.
+
+🔭 I’m currently working on Simultaneous localization and mapping(SLAM) in mobile robots.
+
+🛠️ Programming skills
+* C/C++
+* Python
