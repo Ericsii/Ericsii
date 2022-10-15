@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-[![GitHub](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2Fericsii&query=count&color=b6b6b6&label=GitHub&labelColor=282c34&logo=github&suffix=+follows&cacheSeconds=3600)](https://github.com/ericsii)
+![GitHub followers](https://img.shields.io/github/followers/ericsii?logo=Github&style=flat-square)
 
 <a href="https://github.com/Ericsii"><img align='right' src="https://github-readme-stats.vercel.app/api?username=Ericsii&show_icons=true"></a>
 
