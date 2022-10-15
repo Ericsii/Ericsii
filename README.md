@@ -2,7 +2,7 @@
 
 <a href="https://github.com/Ericsii"><img align='right' src="https://github-readme-stats.vercel.app/api?username=Ericsii&show_icons=true"></a>
 
-![GitHub followers](https://img.shields.io/github/followers/ericsii?logo=Github&style=flat-square) ![GitHub User's stars](https://img.shields.io/github/stars/ericsii?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=all%20stars&logo=Github)
+![GitHub followers](https://img.shields.io/github/followers/ericsii?logo=Github) ![GitHub User's stars](https://img.shields.io/github/stars/ericsii?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=all%20stars&logo=Github)
 
 <!--
 **Ericsii/Ericsii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
