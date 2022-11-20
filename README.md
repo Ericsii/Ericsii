@@ -6,8 +6,13 @@
 
 I'm Yunlong Feng(冯云龙), an undergraduate student at SCU.
 
-🔭 I’m currently working on Simultaneous localization and mapping(SLAM) in mobile robots.
+### 🎓 Experience:
+- Internship, Institute for AI Industry Research, Tsinghua University (2022)
+- Bachelor, Computer Science & Technology, Sichuan University (2019 ~ )
 
-🛠️ Programming skills
+### 🔭 Interests: 
+- Simultaneous localization and mapping(SLAM) in mobile robots.
+
+### 🛠️ Programming skills
 * C/C++
 * Python
