@@ -6,7 +6,7 @@
 I'm Yunlong Feng(冯云龙), an undergraduate student at SCU.
 
 ### 🎓 Experience:
-- Internship, Institute for AI Industry Research, Tsinghua University (2022)
+- Internship, Institute for AI Industry Research, Tsinghua University (2022.06 ~ 2022.12)
 - Bachelor, Computer Science & Technology, Sichuan University (2019 ~ )
 
 ### 🔭 Interests: 
