@@ -15,6 +15,7 @@ I'm Yunlong Feng(冯云龙), an undergraduate student at SCU.
 ### 🛠️ Programming skills
 * C/C++
 * Python
+* ROS/ROS2
 
 
 <a href="https://github.com/Ericsii"><img align='center' src="https://github-readme-stats.vercel.app/api?username=Ericsii&show_icons=true"></a>
