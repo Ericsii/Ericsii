@@ -6,8 +6,9 @@
 I'm Yunlong Feng(冯云龙), an undergraduate student at SCU.
 
 ### 🎓 Experience:
+- Master, Computer Science & Technology, Mobile Perception Lab, ShanghaiTech University (2023 ~ )
 - Internship, Institute for AI Industry Research, Tsinghua University (2022.06 ~ 2022.12)
-- Bachelor, Computer Science & Technology, Sichuan University (2019 ~ )
+- Bachelor, Computer Science & Technology, Sichuan University (2019 ~ 2023)
 
 ### 🔭 Interests: 
 - Simultaneous localization and mapping(SLAM) in mobile robots.
