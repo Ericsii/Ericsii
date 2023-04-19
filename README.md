@@ -18,5 +18,6 @@ I'm Yunlong Feng(冯云龙), an undergraduate student at SCU.
 * Python
 * ROS/ROS2
 
+[![Ericsii's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ericsii&count_private=true&show_icons=true)](https://github.com/Ericsii)
 
-<a href="https://github.com/Ericsii"><img align='center' src="https://github-readme-stats.vercel.app/api?username=Ericsii&show_icons=true"></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ericsii)](https://github.com/Ericsii)
