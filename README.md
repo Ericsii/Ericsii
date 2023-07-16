@@ -3,7 +3,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/ericsii?logo=Github) ![GitHub User's stars](https://img.shields.io/github/stars/ericsii?affiliations=OWNER%2CCOLLABORATOR&label=all%20stars&logo=Github)
 
-I'm Yunlong Feng(冯云龙), an undergraduate student at SCU.
+I'm Yunlong Feng(冯云龙), a graduate student at MPL, ShanghaiTech University.
 
 ### 🎓 Experience:
 - Master, Computer Science & Technology, Mobile Perception Lab, ShanghaiTech University (2023 ~ )
