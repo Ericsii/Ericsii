@@ -6,7 +6,7 @@
 I'm Yunlong Feng(冯云龙), a graduate student at MPL, ShanghaiTech University.
 
 ### 🎓 Experience:
-- Master, Computer Science & Technology, Mobile Perception Lab, ShanghaiTech University (2023 ~ )
+- Master, Computer Science & Technology, Mobile Perception Lab, ShanghaiTech University (2023.09 ~ now)
 - Internship, Institute for AI Industry Research, Tsinghua University (2022.06 ~ 2022.12)
 - Bachelor, Computer Science & Technology, Sichuan University (2019 ~ 2023)
 
