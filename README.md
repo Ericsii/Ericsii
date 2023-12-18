@@ -20,4 +20,4 @@ I'm Yunlong Feng(冯云龙), a graduate student at MPL(Mobile Perception Lab), S
 
 [![Ericsii's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ericsii&count_private=true&show_icons=true)](https://github.com/Ericsii)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ericsii&layout=compact)](https://github.com/Ericsii)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ericsii)](https://github.com/Ericsii)
