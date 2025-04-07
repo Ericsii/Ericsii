@@ -5,6 +5,8 @@
 
 I'm Yunlong Feng(冯云龙), a graduate student at [MPL(Mobile Perception Lab)](https://mpl.sist.shanghaitech.edu.cn/), ShanghaiTech University.
 
+I am currently looking for opportunities!👏
+
 ### 🎓 Experience:
 - Embodied AI Intern, AI Institute China Telecommunications Co. (2024.12~2025.05)
 - Master, Computer Science & Technology, Mobile Perception Lab, ShanghaiTech University (2023.09 ~ now)
