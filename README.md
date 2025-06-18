@@ -8,7 +8,7 @@ I'm Yunlong Feng(冯云龙), a graduate student at [MPL(Mobile Perception Lab)](
 I am currently looking for opportunities!👏
 
 ### 🎓 Experience:
-- Robotics Software Engineer Intern, Qualcomm China Shanghai. (2025.06~now)
+- Robotics Software Engineer Intern, Qualcomm China(Shanghai). (2025.06~now)
 - Embodied AI Intern, AI Institute China Telecommunications Co. (2024.12~2025.05)
 - Master, Computer Science & Technology, Mobile Perception Lab, ShanghaiTech University (2023.09 ~ now)
 - Intern ROS engineer, Mangdang Technology Co., Limited, (2023.02 ~ 2023.07)
