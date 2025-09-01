@@ -17,6 +17,10 @@ I am currently looking for opportunities!👏
 - Master, Computer Science & Technology, Mobile Perception Lab, ShanghaiTech University (2023.09 ~ now)
 - Bachelor, Computer Science & Technology, Sichuan University (2019 ~ 2023)
 
+### 📜 Publications:
+- "A Linear N-Point Solver for Structure and Motion from Asynchronous Tracks", Co-first author, ICCV2025
+- "Block-Map-Based Localization in Large-Scale Environment", 4th author, ICRA2024
+
 ### 🔭 Interests: 
 - Simultaneous localization and mapping(SLAM) in mobile robots.
 - Event camera-based Computer Vision
