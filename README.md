@@ -30,7 +30,7 @@ I am currently looking for opportunities!👏
 * Python
 * ROS/ROS2
 
-[![Ericsii's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Ericsii&count_private=true&show_icons=true)](https://github.com/Ericsii)
+<!--[![Ericsii's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Ericsii&count_private=true&show_icons=true)](https://github.com/Ericsii)-->
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ericsii)](https://github.com/Ericsii)-->
 ![GitHubCard](https://githubcard.com/Ericsii.svg?d=xqbSxmle)
