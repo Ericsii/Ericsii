@@ -5,7 +5,7 @@
 
 I'm Yunlong Feng(冯云龙), a graduate student at [MPL(Mobile Perception Lab)](https://mpl.sist.shanghaitech.edu.cn/), ShanghaiTech University.
 
-I am currently looking for opportunities!👏
+<!-- I am currently looking for opportunities!👏 -->
 
 ### 💼 Work Experience:
 - Robotics Software Engineer Intern, Qualcomm China(Shanghai). (2025.06~2026.01)
